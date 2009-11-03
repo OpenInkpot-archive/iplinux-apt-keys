@@ -1,3 +1,9 @@
+apt-keys (0.1.2) asimov; urgency=low
+
+  * Update IPlinux key to new one (previous one is lost).
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Tue, 03 Nov 2009 18:40:10 +0600
+
 apt-keys (0.1.1) asimov; urgency=low
 
   * Oops. Previous release contained the autobuilder key, not repository
